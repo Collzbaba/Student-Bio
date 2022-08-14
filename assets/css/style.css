@@ -8,9 +8,10 @@
   img{
     width: 200px;
     height: 200px;
+    border-radius: 10pc;
   }
 
-  
+  /*Element Selector*/
   body {
     background-color: lemonchiffon;
   }
@@ -28,11 +29,13 @@
     width: 200px;
     background-color: #f0ead6;
   }
-  
+
+  /*Class selector*/
   .highlighted-text {
     font-weight: bolder;
   }
 
+/*ID Selector*/
   #contact-section {
     background-color: #f0ead6;
   }
